@@ -1,2 +1,2 @@
 # Profile-tree
-Preview here http://misfitsdev.xyz/Profile-tree/
+Preview here https://tas33n.github.io/Profile-tree/
